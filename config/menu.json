@@ -1,0 +1,57 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "FAQ",
+      "url": "/faq"
+    }
+  ],
+  "footer": [
+    {
+      "name": "",
+      "menu": [
+        {
+          "text": "",
+          "url": "/pricing"
+        },
+        {
+          "text": "",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "menu": [
+        {
+          "text": "",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Support",
+      "menu": [
+        {
+          "text": "FAQ",
+          "url": "/faq"
+        },
+        {
+          "text": "",
+          "url": "#"
+        },
+        {
+          "text": "Contact",
+          "url": "/contact"
+        }
+      ]
+    }
+  ]
+}
